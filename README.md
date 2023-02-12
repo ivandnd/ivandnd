@@ -39,3 +39,9 @@ const ivandnd = {
 </div>
 
 ---
+
+<div align="center">
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandnd&theme=radical" />
+</div>
+
+---
