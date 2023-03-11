@@ -9,7 +9,7 @@
 
 ```javascript
 const ivandnd = {
-  studying: ["bootstrap", "reactjs"],
+  studying: ["php", "mysql"],
   working_on: "anything that comes in my mind",
   hobbies: ["listening to music", "watching tv shows", "watching movies", "learning new stuffs"],
   os: ["android (former)", "ios (current)", "windows (pc)", "linux (laptop)"],
